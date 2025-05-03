@@ -79,8 +79,8 @@ const BlankLayout = () => (
 
 function App() {
   return (
-    <Analytics />
     <ThemeProvider theme={theme}>
+    <Analytics />
       <CssBaseline />
       <AuthProvider>
         <SnackbarProvider>
