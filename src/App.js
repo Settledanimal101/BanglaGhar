@@ -7,6 +7,8 @@ import {
   Route,
   Outlet,
 } from "react-router-dom"; // Import Outlet
+
+import { SpeedInsights } from "@vercel/speed-insights/react";
 import { Analytics } from "@vercel/analytics/react";
 
 // Layout Components
@@ -80,7 +82,8 @@ const BlankLayout = () => (
 function App() {
   return (
     <ThemeProvider theme={theme}>
-    <Analytics />
+      <Analytics />
+      <SpeedInsights />
       <CssBaseline />
       <AuthProvider>
         <SnackbarProvider>
