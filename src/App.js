@@ -7,6 +7,7 @@ import {
   Route,
   Outlet,
 } from "react-router-dom"; // Import Outlet
+import { Analytics } from "@vercel/analytics/react";
 
 // Layout Components
 import Navbar from "./components/layout/Navbar";
