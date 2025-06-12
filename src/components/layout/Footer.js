@@ -387,11 +387,11 @@ const Footer = () => {
                 <Box>
                   <Typography variant="body2" sx={{ color: "#BFBBB8" }}>
                     {" "}
-                    House #42, Road #11, Banani{" "}
+                    House # 58 Dashpukur{" "}
                   </Typography>
                   <Typography variant="body2" sx={{ color: "#BFBBB8" }}>
                     {" "}
-                    Dhaka 1213, Bangladesh{" "}
+                    Rajshahi 6000, Bangladesh{" "}
                   </Typography>
                 </Box>
               </Box>
@@ -402,11 +402,11 @@ const Footer = () => {
                 <Box>
                   <Typography variant="body2" sx={{ color: "#BFBBB8" }}>
                     {" "}
-                    +880 1234-567890{" "}
+                    +88 01770848435{" "}
                   </Typography>
                   <Typography variant="body2" sx={{ color: "#BFBBB8" }}>
                     {" "}
-                    +880 1987-654321{" "}
+                    +88 01770848435{" "}
                   </Typography>
                 </Box>
               </Box>
@@ -417,12 +417,12 @@ const Footer = () => {
                 <Box>
                   <Typography variant="body2" sx={{ color: "#BFBBB8" }}>
                     {" "}
-                    info@banglaghor.com{" "}
+                    banglagharinfo@gmail.com{" "}
                   </Typography>
-                  <Typography variant="body2" sx={{ color: "#BFBBB8" }}>
+                  {/* <Typography variant="body2" sx={{ color: "#BFBBB8" }}>
                     {" "}
                     sales@banglaghor.com{" "}
-                  </Typography>
+                  </Typography> */}
                 </Box>
               </Box>
             </Box>
